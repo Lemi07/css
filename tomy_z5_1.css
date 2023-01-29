@@ -1,0 +1,23 @@
+
+abc{ color: #333; /* 
+<html>
+<head>
+<title>styl zewnetrzne</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- 22.11.2022  Tomys -->
+<style>
+@import url("tomy_z5_1.css ");
+</style>
+</head>
+<body bgcolor="silver">
+<p> Tomys. Przykładem języka programowania jest C++ </p>
+</body>
+</html>
+*/}
+
+
+p {
+color: #008080;
+font-size: 86px;
+abc{ color: #333; /* 22.11.2022 Tomys */ }
+}
