@@ -1,0 +1,32 @@
+p#pogrubienie_tomys{
+	font-size: 30px;
+	color: #875DCA;
+	font-weight: bold;
+}
+p#pochylona_tomys{
+	font-size: 35pt;
+	color: #EBC166;
+	font-weight: italic;
+}
+p#index_gorny_tomys{
+	font-size: 1cm;
+	color: #9B8E16;
+	vertical-align: super;
+}
+p#index_dolny_tomys{
+	font-size: 1,5cm;
+	color: rgb(14%,62%,59%);
+	vertical-align:sub;
+}
+p#mono_tomys{
+	font-size: 40px;
+	color: #1BDE66;
+}
+p#powiekszenie_tomys{
+	color: #553E98;
+	font-size: larger;
+}
+p#pomniejszenie_tomys{
+	color: rgb(47%,41%,13%);
+	font-size: smaller;
+}
