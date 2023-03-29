@@ -1,0 +1,19 @@
+A
+{
+font-size: 18pt;
+text-decoration: none;/*nie daje rzadnych dekoracji tekstu*/
+}
+A:link
+{
+color: blue;
+}
+A:visited
+{
+color: green;
+}
+A:hover
+{
+color: red;
+text-decoration: underline;/*Podkreśla słowa*/
+}
+/*Leon Tomys*/ 
