@@ -1,0 +1,16 @@
+body{
+	background-color:RGB(192,192,192);
+}
+p#bez_niczego{
+	font-size: 6mm;
+	color:RGB(125,122,120);
+}
+p:lang(pl){
+	font-size:7mm;
+	color:RGB(255,255,0);
+}
+p:lang(en){
+	font-size:11mm;
+	color:RGB(64,224,208);
+}
+/*Leon Tomys*/

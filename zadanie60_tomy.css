@@ -1,0 +1,8 @@
+div#blok1_tomys {background-color: #00ff00;width:626px;}
+div#blok2_tomys {background-color: #00ff00;width:626px;}
+div#blok3_tomys {background-color: #00ff00;width:626px;}
+div#blok1_tomys:hover {background-color: silver;font-size:19mm;}
+div#blok2_tomys:hover {background-color: yellow;font-size:19mm;}
+div#blok3_tomys:hover {background-color: #30D5C8;font-size:19mm;}
+/*Leon Tomys
+hover-powoduje po najechaniu na blok div zmianę tego bloku*/	

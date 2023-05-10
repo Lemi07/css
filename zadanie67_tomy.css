@@ -1,0 +1,34 @@
+﻿p#pier:first-letter {
+    font-size:112pt;
+    color:rgb(192, 192, 192);
+}
+p#drug:first-letter {
+    font-size: 112pt;
+    color: rgb(255, 255, 0);
+}
+p#pier {
+    font-size: 19pt;
+    color: rgb(48,213,200);
+}
+P#drug {
+    font-size: 18pt;
+    color: rgb(48,213,200);
+}
+p#trze:first-letter {
+    font-size:120pt;
+} 
+p#trze:first-line {
+    color:rgb(255,0,0);
+}
+p#trze {
+    color: rgb(0,0,230);
+    font-size:30pt;
+}
+h1:first-letter {
+    font-size: 120pt;
+    color: rgb(192, 192, 192);
+}
+h1 {
+    font-size: 20pt;
+    color: rgb(0, 0, 230);
+}
