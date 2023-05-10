@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <textarea cols="80" rows="90">
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1><u>Pseudoelementy:</u></h1>
+    <p>
+    <b>
+            Pseudoelementem :first-line, który obejmuje formatowaniem całą
+            pierwszą linię.
+        </b>
+    </p>
+    <table border="3">
+    <tr>
+    <td>
+                p<br>
+                {<br>
+                color:navy;<br>
+                font-size:12pt;<br>
+                }<br>
+                p:first-line<br>
+                {<br>
+                color:red;<br>
+                font-size:20pt;<br>
+                font-weight:bold;<br>
+                }<br>
+            </td>
+        </tr>
+    </table>
+    <h2><b>pseudoelementy: :after oraz :before.</b></h2>
+    <p>
+        Poza :first-letter oraz :first-line w specyfikacji umieszczono jeszcze dwa inne
+    <b>pseudoelementy: :after oraz :before.</b> Oba elementy służą do umieszczania tekstu przed i za
+        formatowanym elementem strony. Poniżej zamieszczam odpowiedni przykład.
+    </p>
+    <table border="3">
+    <tr>
+    <td>
+                p:before<br>
+                {<br>
+                content:"TO SĄ ĆWICZENIA";<br>
+                font-size:15pt;<br>
+                font-style:italic;<br>
+                font-weight:bold;<br>
+                }<br>
+                p:after<br>
+                {<br>
+                content:"AUTOR Król Lew";<br>
+                font-size:15pt;<br>
+                font-style:italic;<br>
+                font-weight:bold;<br>
+                }<br>
+            </td>
+        </tr>
+    </table>
+    <h1><b>Pseudoelement :first-letter</b></h1><p>
+        pozwala na formatowanie pierwszej litery w bloku
+        tekstu.
+        Przykładowy arkusz spowoduje powiększenie pierwszej litery do wielkości 100 punktów i
+        nadanie jej koloru czerwonego
+    </p>
+    <table border="3">
+    <tr>
+    <td>
+                p<br>
+                {<br>
+                color:navy;<br>
+                font-size:30pt;<br>
+                }<br>
+                p:first-letter<br>
+                {<br>
+                color:red;<br>
+                font-size:100pt;<br>
+                }<br>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+</textarea>
+</body>
+</html>
+<!--Leon Tomys--> 
